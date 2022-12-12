@@ -1,0 +1,22 @@
+Jumat 25 November 2022
+1. Pengertian Middleware
+2. Membuat dan mendaftarkan Middleware
+3. 
+
+
+1. Demokan tugas mini project
+2. Pengertian dan penjelasan tentang security web
+3. Mempelajari cara melindungi website dari ancaman
+4. Simulasi ancaman hacker terhadap website
+5. Menjelaskan tentang peraturan quiz creative thinking
+6. Mengerjakan post test PHP dan mariaDB
+7. Pengertian, manfaat, aturan dan jenis framework
+8. Fitur pada laravel
+9. Instalasi composer dan laravel 9
+10. Pengenalan MVC di  laravel 9
+11. Membuat route dan view sederhana
+12. Konsep routing pada laravel
+13. Routing dengan return langsung tanpa file view
+14. Routing dengan menerima parameter
+15. Routing dengan view dan blade template
+16. Routing dengan view dan controller
